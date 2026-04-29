@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="480" viewBox="0 0 480 480" fill="none">
+  <defs>
+    <linearGradient id="a" x1="72" y1="64" x2="420" y2="424" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0c4a6e"/>
+      <stop offset="1" stop-color="#b45309"/>
+    </linearGradient>
+  </defs>
+  <rect width="480" height="480" rx="240" fill="#f7f7f7"/>
+  <circle cx="240" cy="240" r="220" fill="url(#a)" opacity="0.95"/>
+  <circle cx="240" cy="190" r="76" fill="#f7f7f7" opacity="0.92"/>
+  <path d="M114 375c24-70 76-105 126-105s102 35 126 105" fill="#f7f7f7" opacity="0.92"/>
+  <text x="240" y="448" text-anchor="middle" font-family="Avenir Next, PingFang SC, sans-serif" font-size="28" fill="#ffffff" opacity="0.85">Your Photo</text>
+</svg>
