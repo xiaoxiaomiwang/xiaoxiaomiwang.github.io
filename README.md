@@ -1,6 +1,5 @@
 # Wang Min Homepage (Bilingual)
 
-Academic-style personal homepage inspired by `dongguanting.github.io`.
 
 ## Structure
 
